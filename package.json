@@ -1,11 +1,19 @@
 {
- "name": "rodrigofernandes-desafio3",
- "version": "1.0.0",
- "description": "",
- "main": "index.js",
- "scripts":{
-  "test": "echo Test" && exit 1
- },
- "author": "",
- "license": "ISC"
+  "name": "rodrigofernandes-desafio3",
+  "version": "1.0.0",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "node hello-world.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rotex55/aws-codepipeline-s3-codedeploy-linux.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rotex55/aws-codepipeline-s3-codedeploy-linux/issues"
+  },
+  "homepage": "https://github.com/rotex55/aws-codepipeline-s3-codedeploy-linux#readme",
+  "description": ""
 }
